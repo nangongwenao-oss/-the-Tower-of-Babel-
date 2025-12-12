@@ -1,0 +1,9 @@
+{
+  "name": "GuardianLink",
+  "description": "AI-powered early intervention and safety monitoring platform for children with autism and developmental delays.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
